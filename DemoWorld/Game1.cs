@@ -26,7 +26,7 @@ namespace DemoWorld
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            player = new PlayerEntity(Content.Load<Model>("models/Maskboy"), new Vector3(0, 0, 0));
+            player = new PlayerEntity(Content.Load<Model>("models/Jiggy"), new Vector3(0, 0, 0));
         }
 
         protected override void UnloadContent()

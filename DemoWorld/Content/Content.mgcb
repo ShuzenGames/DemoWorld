@@ -13,7 +13,18 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin Models/Maskboy.FBX
+#begin Models/image_0000.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:TextureFormat=Color
+/build:Models/image_0000.png
+
+#begin Models/Jiggy.obj
 /importer:FbxImporter
 /processor:ModelProcessor
 /processorParam:ColorKeyColor=0,0,0,0
@@ -30,5 +41,5 @@
 /processorParam:Scale=1
 /processorParam:SwapWindingOrder=False
 /processorParam:TextureFormat=DxtCompressed
-/build:Models/Maskboy.FBX
+/build:Models/Jiggy.obj
 
